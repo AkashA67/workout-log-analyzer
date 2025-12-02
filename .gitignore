@@ -1,0 +1,24 @@
+# .gitignore
+# Python bytecode
+*.pyc
+__pycache__
+
+# Virtual environment files
+venv/
+.venv/
+env/
+workout_project_env/
+
+# Dependencies
+/env/
+/bin/
+
+# OS generated files
+.DS_Store
+
+# Data files (keep raw logs but ignore large processed files/models)
+/data_processed/
+/models/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints

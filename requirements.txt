@@ -1,0 +1,8 @@
+# requirements
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+plotly
+streamlit
