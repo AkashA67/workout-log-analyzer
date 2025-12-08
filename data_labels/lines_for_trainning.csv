@@ -1,0 +1,446 @@
+raw_line,label
+# 18_07_25 Limbs B,DATE
+01_09_25 Upper A,DATE
+02_08_25 Upper C,DATE
+02_09_25 Lower B,DATE
+03-11-25 Upper A,DATE
+03_09_25 Upper C,DATE
+04-11-25 Lower  B,DATE
+05_08_25 Upper A,DATE
+06-10-25 Upper A,DATE
+06-11-25 Upper C,DATE
+06_08_25 Lower  B,DATE
+07-10-25 Lower  B,DATE
+07-11-25 Lower D,DATE
+08-11-25 Sharms,DATE
+08_08_25 Upper C,DATE
+08_09_25 Lower D,DATE
+09-10-25 Upper C,DATE
+09_08_25 Full Body D,DATE
+09_09_25 Upper A,DATE
+10-10-25 Lower D,DATE
+10-11-25 Upper A,DATE
+10_07_25 Torso A,DATE
+10_09_25 Lower  B,DATE
+11-11-25 Lower  B,DATE
+12_07_25 Limbs A,DATE
+12_08_25 Upper A,DATE
+12_09_25 Upper C,DATE
+13-10-25 Upper A,DATE
+13-11-25 Upper C,DATE
+13_08_25 Lower  B,DATE
+13_09_25 Lower D,DATE
+14-10-25 Lower  B,DATE
+14_07_25 Torso A,DATE
+14_08_25 Upper C,DATE
+15-10-25 Upper C,DATE
+15_07_25 Limb A,DATE
+16-10-25 Lower D,DATE
+17-09-25 Lower  B,DATE
+17-10-25 Sharms,DATE
+17/07/25 Torso B,DATE
+18-09-25 Upper C,DATE
+18_08_25 Lower D,DATE
+19-11-25 Full Body,DATE
+19_08_25 Upper A,DATE
+- Barbell Back Squats (4-6 reps),EXERCISE
+- Barbell Back Squats (5-8 reps),EXERCISE
+- Barbell Bench Press (4-6 reps),EXERCISE
+- Barbell Bench Press (5-8 reps),EXERCISE
+- Barbell Bent-over Rows (5-8 reps),EXERCISE
+- Barbell Bent-over Rows (6-8 reps),EXERCISE
+- Barbell Curls (5-8 Reps),EXERCISE
+- Barbell Curls (8-10 reps),EXERCISE
+- Barbell Good mornings (5-8 reps),EXERCISE
+- Barbell Hammer Curl (5-8 Reps),EXERCISE
+- Barbell Overhead Press (5-8 reps),EXERCISE
+- Barbell RDL (5-8 reps),EXERCISE
+- Barbell RDL (8-12 reps),EXERCISE
+- Barbell Shrugs (5-8 reps),EXERCISE
+- Barbell Squats (5-8 reps),EXERCISE
+- Bench Press (5-8 reps),EXERCISE
+- Bulgarian Split Squats (5-8 reps),EXERCISE
+- Bulgarian Split Squats (8-10 reps),EXERCISE
+- Cable Curls (5-8 reps),EXERCISE
+- Cable Curls (8-10 reps),EXERCISE
+- Cable Kickback (8-12 reps),EXERCISE
+- Cable Lateral Raises  (5-8 Reps),EXERCISE
+- Cable Lateral Raises (5-8 reps),EXERCISE
+- Cable Lateral raises (8-10 reps),EXERCISE
+- Cable Pushdowns (5-8 reps),EXERCISE
+- Cable Triceps Kickback (5-8 reps),EXERCISE
+- Cable Triceps Kickback (8-12 reps),EXERCISE
+- Cable Triceps Pushdown (8-10 reps),EXERCISE
+- Cable tricep Kickback (8-12 reps),EXERCISE
+- Chest Pec Dec (5-8 reps),EXERCISE
+- DB Bench Press (5-8 reps),EXERCISE
+- DB Bench Press (8-10 reps),EXERCISE
+- DB Front Wrist Curls (5-8 reps),EXERCISE
+- DB Hammer Curls (8-10 reps),EXERCISE
+- DB Lateral Raises (10-12 reps),EXERCISE
+- DB Lateral Raises (10-15 reps),EXERCISE
+- DB Lateral Raises (8 - 15 reps),EXERCISE
+- DB Lateral Raises (8-12 reps),EXERCISE
+- DB Lateral Raises (8-15 reps),EXERCISE
+- DB Preacher Curls (5-8 reps),EXERCISE
+- DB Preacher Curls (8-15 reps),EXERCISE
+- DB RDL (8-10 reps),EXERCISE
+- DB RDL (8-12 reps),EXERCISE
+- DB Reverse Wrist Curls (5-8 reps),EXERCISE
+- DB Shrugs (5-8 reps),EXERCISE
+- DB Shrugs (8-10 reps),EXERCISE
+- Deadlift (3-5 reps),EXERCISE
+- Deadlift (4-6 reps),EXERCISE
+- Deadlift (5-8 reps),EXERCISE
+- Deadlifts (4-6 reps),EXERCISE
+- Declined Crunches (10-15 reps),EXERCISE
+- EZ Bar Spider Curls (5-8 reps),EXERCISE
+- EZ Skull Crusher (5-8 Reps),EXERCISE
+- EZ Skull Crushers (6-10 reps),EXERCISE
+- EZ Skull Crushers (8-10 reps),EXERCISE
+- Face Pulls  (10-12 reps),EXERCISE
+- Face Pulls  (5-8 reps),EXERCISE
+- Face Pulls (8-10 reps),EXERCISE
+- Front Squats (5-8 reps),EXERCISE
+- Front Wrist Curl (10-20 reps),EXERCISE
+- Front Wrist Curls (10-12 reps),EXERCISE
+- Front Wrist Curls (10-20 reps),EXERCISE
+- Front Wrist Curls (5-8 reps),EXERCISE
+- Goblet Squats (5-8 reps),EXERCISE
+- Good Mornings (8-10 Reps),EXERCISE
+- Good Mornings (8-12 Reps),EXERCISE
+- Hanging Knee Raises (20 reps),EXERCISE
+- Hanging KneeRaises (20 reps),EXERCISE
+- Hanging knee Raises (20 reps),EXERCISE
+- Incline Barbell Bench Press  (6-8 reps),EXERCISE
+- Incline Barbell Bench Press(8-10 reps),EXERCISE
+- Incline Bench Press  (5-8 reps),EXERCISE
+- Incline DB Press (8-10 reps),EXERCISE
+- Incline DB Press (8-12 reps),EXERCISE
+- Incline DB Reverse Flys(10-12 reps),EXERCISE
+- Incline Reverse DB Flies (10-12 reps),EXERCISE
+- Incline Smith Bench Press  (5-8 reps),EXERCISE
+- Incline Smith Bench Press  (6-8 reps),EXERCISE
+- Lat Pulldown (4-6 reps),EXERCISE
+- Lat Pulldown (5-8 reps),EXERCISE
+- Lat Pulldown (6-8 reps),EXERCISE
+- Lat Pulldown (6-8 reps) (Wide),EXERCISE
+- Lat pulldown (4-6 reps),EXERCISE
+- Leg Extension (5-8 reps),EXERCISE
+- Leg Press (5-8 reps),EXERCISE
+- Leg Press (8-10 reps),EXERCISE
+- Lunges (10 - 12 reps),EXERCISE
+- Lunges(8-10 reps),EXERCISE
+- Lying Hamstring Curls (5-8 reps),EXERCISE
+- Lying Hamstring Curls (8-10 reps),EXERCISE
+- Overhead Cable Extensions (8-10 reps),EXERCISE
+- Overhead Cable Triceps Extensions (5-8 reps),EXERCISE
+- Overhead Cable Triceps Extensions (8-10 reps),EXERCISE
+- Overhead Press (6-8 reps),EXERCISE
+- Preacher Curls (5-8 Reps),EXERCISE
+- Preacher Curls (5-8 reps),EXERCISE
+- Preacher Curls (8-10 reps),EXERCISE
+- Pull-ups (5-8 reps),EXERCISE
+- Pull-ups (6-8 reps),EXERCISE
+- Reverse Curls (5-8 reps),EXERCISE
+- Reverse EZ Bar Curls (8-10 reps),EXERCISE
+- Reverse Pec Dec (10-12 reps),EXERCISE
+- Reverse Pec Dec (5-8 reps),EXERCISE
+- Reverse Pec Dec (8-10 reps),EXERCISE
+- Reverse Wrist Curls (5-8 reps),EXERCISE
+- Rope Hammer Curls (5-8 reps),EXERCISE
+- Seated Barbell OHP (4-6 reps),EXERCISE
+- Seated Barbell OHP (6-8 reps),EXERCISE
+- Seated Cable Row (5-8 reps),EXERCISE
+- Seated Cable Row (8-10 reps),EXERCISE
+- Seated Cable Rows (8-10 reps),EXERCISE
+- Seated Calf Raises (10-15 reps),EXERCISE
+- Seated Calf Raises (10-20 reps),EXERCISE
+- Seated Calf Raises (5-8 reps),EXERCISE
+- Seated Calf Raises (8-10 reps),EXERCISE
+- Seated Calf raise (10-15 reps),EXERCISE
+- Seated DB Overhead Press (5-8 reps),EXERCISE
+- Seated DB Press (8-15 Reps),EXERCISE
+- Seated DB Reverse Flys (10-12 reps),EXERCISE
+- Seated DB Shoulder Press (5-8 reps),EXERCISE
+- Seated Leg Extension (8-10 reps),EXERCISE
+- Seated Reverse Flys (10-12 reps),EXERCISE
+- Single Arm Reverse Pec Dec (5-8 reps),EXERCISE
+- Single Arm Reverse pec dec (5-8 Reps),EXERCISE
+- Standing Calf raise (8-10 reps),EXERCISE
+- Standing Overhead Press (5-8 reps),EXERCISE
+- Trap-Bar Shrugs (5-8 reps),EXERCISE
+- Triceps Cable Push Down (5-8 Reps),EXERCISE
+- Triceps Dips (8-10 reps),EXERCISE
+#NAME?,EXERCISE
+- Weighted Chinups (5-8 reps),EXERCISE
+- Weighted Dips (5-8 reps),EXERCISE
+- Weighted Pull-ups (5-8 reps),EXERCISE
+- Weighted Triceps Dips (5-8 reps),EXERCISE
+- Weighted Triceps Dips (6-8 reps),EXERCISE
+- Wrist Curls (10-20 Reps),EXERCISE
+1. EZ Bar curls,EXERCISE
+1. Hammer curls,EXERCISE
+1. Overhead Cable extension,EXERCISE
+1. Triceps Pushdown,EXERCISE
+10. Plank,EXERCISE
+5.Barbell back squats,EXERCISE
+6. Lunges,EXERCISE
+7. Lying Hamstring Curls,EXERCISE
+9. Seated Calf Raises,EXERCISE
+Barbell Bench Press,EXERCISE
+Barbell Good Mornings,EXERCISE
+Bodyweight Squats (focus on depth and bracing),EXERCISE
+DB lateral Raises,EXERCISE
+Lat pulldown,EXERCISE
+Leg Press (Skipped),EXERCISE
+Lying Hamstring (8-10 reps),EXERCISE
+Plank (Skipped),EXERCISE
+Reverse pec dec,EXERCISE
+(1 rep reduced from last week),NOTE
+(Cable),NOTE
+(Curls as machine was faulty last time done this),NOTE
+(Dropped weight from 150 to 140),NOTE
+(Machine),NOTE
+(Note increase weight),NOTE
+(Note this Machine is easy switch workout next time for BSS),NOTE
+(Note: Form Wrong Butt have to stay in contact with bench),NOTE
+(Note: Stick with 40kg untill no pain in scapula),NOTE
+(Note: stick with this weight until easy as form is not perfect),NOTE
+(Note: switch with declined Crunches Next time),NOTE
+(Only plate weight),NOTE
+(Plate weight only),NOTE
+(Smith Machine),NOTE
+(Switch to normal don't like this),NOTE
+(Total weight including bar(20kg)),NOTE
+(V - Bar),NOTE
+(V - Bar) (Drop Set),NOTE
+(V-Bar),NOTE
+(V-bar),NOTE
+(Wide feet),NOTE
+(Wide grip),NOTE
+"(back of the foot ket raising while sitting down, controlled as much as possible)",NOTE
+(cable),NOTE
+(can't even lift 110 without straps),NOTE
+(doing after a long time so stick with low weight),NOTE
+(due to low volume because of pull ups,NOTE
+(forgot to count bar so its 40kg 😅),NOTE
+(form is off),NOTE
+(form not perfect but good),NOTE
+(form not perfect),NOTE
+(good MMC at 30kg),NOTE
+(last week done 40kg for 8 reps),NOTE
+(machine fault change workout),NOTE
+(total weight including bar (10kg)),NOTE
+(total weight including bar(10kg)),NOTE
+(total weight including barbell),NOTE
+(without bar weight),NOTE
+4 KG increase from last month,NOTE
+Note increase weight to 60kg for 6 reps,NOTE
+Recovery Week,NOTE
+Triceps Stretch,NOTE
+Weight including Bar,NOTE
+cn - controlled negative,NOTE
+ctf - close to failure,NOTE
+f - failure,NOTE
+form good,NOTE
+front wrist curls,NOTE
+gf - good form,NOTE
+have light cold can't workout properly,NOTE
+last set without rept,NOTE
+learning so stick with this for,NOTE
+mostly gultes not quads,NOTE
+pegion stretch,NOTE
+plate weight only,NOTE
+s2: 20kg × 6 reps (failure),NOTE
+total weight including bar,NOTE
+weight with bar (10kg),NOTE
+will be super set with late pulldown of next time),NOTE
+without bar weight,NOTE
+1. Arm Circles (Fwd & Bwd),OTHER
+1. Dead Hands (30 sec),OTHER
+1. Dead Hands (38 sec ),OTHER
+1. Dead Hands (40 sec),OTHER
+1. Dead Hangs (11 sec),OTHER
+1. Dead Hangs (28 sec),OTHER
+1. Dead Hangs (36 sec),OTHER
+1. Dead Hangs (40 sec,OTHER
+1. Dead Hangs (50 sec),OTHER
+1. Dead Hangs (54 sec),OTHER
+1. Quadriceps Stretch (Standing or Lying),OTHER
+1. Seated leg extension,OTHER
+1. Shoulder Capsule Stretch (Cross-Body),OTHER
+1. Spiderman Lunge with Thoracic Twist,OTHER
+2. Bodyweight Good Mornings,OTHER
+2. Chest pec dec,OTHER
+2. Glute Bridges,OTHER
+2. Pigeon Stretch  (Glutes/Hips),OTHER
+2. Quadriceps Stretch (Standing or Lying),OTHER
+2. Scapular Pull-ups (Dead Hang Shrugs),OTHER
+2. Shoulder Capsule Stretch (Cross-Body),OTHER
+2. Wrist Flexor Stretch,OTHER
+2. pegion stretch,OTHER
+3. Bodyweight Good Mornings,OTHER
+3. Cat-Cow Stretch,OTHER
+3. Pigeon Stretch  (Glutes/Hips),OTHER
+3. Wrist Flexor Stretch,OTHER
+Added,OTHER
+Arm Circles (Fwd & Bwd),OTHER
+Band Pull-Aparts,OTHER
+Calf Stretch,OTHER
+Cool Down Stretch:,OTHER
+Cool-down:,OTHER
+Cooldown:,OTHER
+Current BW Weight: 74.46 kg,OTHER
+Dead hang / Lat Stretch (23 sec),OTHER
+Dead hang / Lat Stretch (27 sec),OTHER
+Dead hang / Lat Stretch (40sec),OTHER
+Dead hangs (34 sec),OTHER
+Dead hangs (35 sec),OTHER
+Dead hangs (36 sec),OTHER
+Dead hangs (42 sec),OTHER
+Dead hangs (60 sec),OTHER
+Dynamic Warm-up:,OTHER
+Extra,OTHER
+Goal: 20 kg × 25 reps,OTHER
+Hamstring Stretch,OTHER
+Hip flexor Stretch,OTHER
+Kneeling Hip Flexor Stretch,OTHER
+Leg Swings (Forward & Backward),OTHER
+Leg Swings (Side to Side),OTHER
+Pegion stretch,OTHER
+Weighted Dead hangs: 5kg × 24 sec,OTHER
+---,SECTION
+Arms:,SECTION
+Back:,SECTION
+Chest:,SECTION
+Core:,SECTION
+Forearms:,SECTION
+Legs:,SECTION
+Limbs A (Quad focused),SECTION
+Limbs A (Quard focused),SECTION
+Limbs B (Hamstring and Quads),SECTION
+Super Set 1:,SECTION
+Super Set 4:,SECTION
+Superset 1:,SECTION
+Superset 2:,SECTION
+Superset 2:z,SECTION
+Superset 3:,SECTION
+Superset 4:,SECTION
+Torso A (Chest focused),SECTION
+Torso B: (Back Focused),SECTION
++ 30 kg × 5 reps (f),SET
++ 50 Kg × 4 Reps (f),SET
++ 50 Kg × 6 Reps (f),SET
+6 Kg × 7 + 5 kg × 8 Reps,SET
+S1:,SET
+S1:   BW  ×  10 Reps (f),SET
+S1:   Kg ×   Sec,SET
+S1:   Sec,SET
+S1:  10 reps (f),SET
+S1:  11 reps (f),SET
+S1:  24 Kg × 12 Reps (not f),SET
+S1:  3 reps (f),SET
+S1:  5 Kg × 4 Reps (f) + 50kg × 7 reps (f),SET
+S1:  BW × 5 Reps (f),SET
+S1:  Kg ×  Reps,SET
+S1:  Kg ×  Reps (f),SET
+S1: 10 Kg × 11 Reps (f),SET
+"S1: 10 Kg × 3 + 2  Reps (f, cluster)",SET
+S1: 10 Kg × 9 Reps (f),SET
+S1: 10 Reps (f),SET
+S1: 10 reps,SET
+"S1: 100 Kg × 8 Reps (f, with belt, without straps, 4 reps alternative grip)",SET
+"S1: 100kg × 4 reps (grip giving out every rep, rest paused every rep)",SET
+"S1: 110 Kg × 4 Reps + 2 with straps (f, with belt)",SET
+"S1: 110 Kg × 5 Reps (with belt, 4 reps without straps and mixed grip, f)",SET
+S1: 12.5 × 10 reps (f),SET
+S1: 13 Sec (f),SET
+S1: 14 reps,SET
+S1: 15  Kg × 13 Reps (f),SET
+S1: 15 kg × 20 Reps (f),SET
+S1: 15kg × 10 reps (c),SET
+S1: 17 kg × 6 reps (f),SET
+S1: 17kg × 7 resp (f),SET
+S1: 20 Kg × 12 Reps (f),SET
+S1: 20 Kg × 8 Reps + 15 × 5 × 10 × 5 + 5 × 3 Reps (f),SET
+S1: 20kg × 4 reps (Failure),SET
+S1: 21 Sec (ctf),SET
+S1: 25 Kg × 7 Reps (f),SET
+"S1: 25, 20, 15, 10 Kg × 5, 3, 3, 4 Rep (f)",SET
+S1: 26  Kg × 9 Reps + 7 assisted on up but controlled negative (f),SET
+S1: 30 Kg × 7 Reps + 25 kg × 2 + 20 kg× 3 kg + 15 kg × 2 + 10kg × 5 + 5 kg × 3 (f),SET
+S1: 30 kg × 10 reps (still bar uncomfortable),SET
+S1: 34 Sec (f),SET
+S1: 34 kg × 10 reps (f),SET
+S1: 4 Reps,SET
+S1: 40 Kg × 5 Reps (f),SET
+S1: 40 Kg × 5 Reps + 30 × 6 + 20 × 10 reps (f),SET
+S1: 40kg × 7 reps (f),SET
+S1: 45kg × 8 reps (f),SET
+S1: 5 reps (Close to failure),SET
+S1: 50kg × 6 reps (c),SET
+S1: 55kg × 6 reps (f),SET
+S1: 5kg × 8 reps,SET
+S1: 60 Sec (f),SET
+"S1: 65 Kg × 4 Reps (f, without straps)",SET
+S1: 7.5 × 15 reps (f),SET
+"S1: 74 kg × 4 reps (belt, f)",SET
+S1: kg × Sec (f),SET
+S2: 10 Kg × 5 Reps (f),SET
+S2: 14 reps,SET
+S2: 150 Kg × 4 Reps (f),SET
+S2: 17 Kg × 7 Reps (f),SET
+S2: 17kg × 6 reps (f),SET
+S2: 20  Kg × 6 Reps (f),SET
+"S2: 20 kg × 9 reps (f, used straps)",SET
+S2: 20kg × 9 reps (f),SET
+"S2: 20kg × 9 reps (f, lite MMC)",SET
+"S2: 22.5 Kg × 4 + 2 Reps (f, cluster)",SET
+S2: 22kg × 7 reps (f),SET
+S2: 25 Kg × 4 Reps (f),SET
+S2: 25kg × 7 reps,SET
+"S2: 30 Kg × 12 Reps (mmc ok, no lower back pain untill last reps)",SET
+S2: 30kg × 7 reps (f),SET
+S2: 32.5 Kg × 4 Reps (f),SET
+S2: 4 reps (failure),SET
+S2: 45 Kg × 6 Reps (f),SET
+S2: 5 Kg × 4 Reps (f),SET
+S2: 50kg × 7 reps (ctf),SET
+S2: 58kg × 6 (failure i think struggled to re rack the weight),SET
+"S2: 60 Kg × 8 Reps (f, same as before)",SET
+S2: 7.5 Kg × 8 Reps,SET
+S2: 90kg × 6 reps (form broke at 5),SET
+S3: 15 Kg × 6 Reps (f),SET
+S3: 40kg × 11 reps (f),SET
+S3: 7.5 kg  × 14 reps (f),SET
+(last time done 6 reps),NOTE
+- Push Ups (AMRAP),EXERCISE
+**Cool-down:**,OTHER
+(done with deadhangs),NOTE
+(Current BW Weight: 74.46 kg),NOTE
+- Pullups (AMRAP),EXERCISE
+**Dynamic Warm-up (5-7 minutes):**,OTHER
+**Cool-down (5 minutes):**,OTHER
+3. 90/90 hip switch,OTHER
+(stuck in BW × 5 reps for months),"NOTE
+"
+(Drop Set),"NOTE
+"
+- Lat Pulldown (Nuteral Grip),EXERCISE
+**Dynamic Warm-up :**,OTHER
+- Lat Pulldown (Wide Grip),EXERCISE
+- Lat pulldown (wide grip),EXERCISE
+Thoracic Rotations / Trunk Rotations,OTHER
+(leg extension machine fault),NOTE
+(felt little on triceps),NOTE
+(1 sec hold on top),NOTE
+(learning),NOTE
+- Hack Squats (Machine),EXERCISE
+1-2 months or MMC,NOTE
+(Neutral Grip),NOTE
+(Reps drop from 7 reps),NOTE
+—,OTHER
+- Leg Compression Lifts (L-sit),EXERCISE
+(Nuteral grip),NOTE
+(Barbell),NOTE

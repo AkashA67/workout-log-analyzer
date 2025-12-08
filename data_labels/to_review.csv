@@ -1,0 +1,449 @@
+raw_line,confidence,source_file,line_no,label
+(last time done 6 reps),0.5516483516483517,03_09_25 Upper C.txt,32,NOTE
+(last time done 6 reps),0.5516483516483517,03_09_25 Upper C.txt,32,NOTE
+- Push Ups (AMRAP),0.45830908115593355,03_09_25 Upper C.txt,37,EXERCISE
+(leg extension machine fault),0.5846470582593873,06_08_25 Lower  B.txt,22,NOTE
+- Pullups (AMRAP),0.5859947792532062,07-10-25 Lower  B.txt,16,EXERCISE
+(felt little on triceps),0.5665559246954597,08_08_25 Upper C.txt,20,NOTE
+**Cool-down (5 minutes):**,0.5598197047024773,08_08_25 Upper C.txt,33,OTHER
+- Pullups (AMRAP),0.5859947792532062,08_09_25 Lower D.txt,2,EXERCISE
+**Cool-down:**,0.4952720499232226,09_08_25 Full Body D.txt,41,OTHER
+(done with deadhangs),0.5528135285046586,09_09_25 Upper A.txt,24,NOTE
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,10-10-25 Lower D.txt,2,OTHER
+- Pullups (AMRAP),0.5859947792532062,10-10-25 Lower D.txt,12,EXERCISE
+**Cool-down (5 minutes):**,0.5598197047024773,10-10-25 Lower D.txt,36,OTHER
+- Lat pulldown (wide grip),0.5203488372093024,10-11-25 Upper A.txt,10,EXERCISE
+- Lat pulldown (wide grip),0.5203488372093024,13-10-25 Upper A.txt,9,EXERCISE
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,13_09_25 Lower D.txt,2,OTHER
+**Cool-down (5 minutes):**,0.5598197047024773,13_09_25 Lower D.txt,37,OTHER
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,16-10-25 Lower D.txt,2,OTHER
+**Cool-down (5 minutes):**,0.5598197047024773,16-10-25 Lower D.txt,32,OTHER
+- Pullups (AMRAP),0.5859947792532062,17-09-25 Lower  B.txt,16,EXERCISE
+- Lat Pulldown (Wide Grip),0.5203488372093024,17_07_25 Torso B.txt,5,EXERCISE
+—,0.4186404709880825,18_07_25 Limbs B.txt,26,OTHER
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,18_08_25 Lower D.txt,2,OTHER
+(learning),0.4286670533772943,18_08_25 Lower D.txt,12,NOTE
+**Cool-down (5 minutes):**,0.5598197047024773,18_08_25 Lower D.txt,46,OTHER
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,20-09-25 Lower D.txt,2,OTHER
+- Pullups (AMRAP),0.5859947792532062,20-09-25 Lower D.txt,11,EXERCISE
+**Cool-down (5 minutes):**,0.5598197047024773,20-09-25 Lower D.txt,37,OTHER
+- Lat pulldown (wide grip),0.5203488372093024,22-10-25 Upper A.txt,11,EXERCISE
+(Current BW Weight: 74.46 kg),0.5451362664988625,22-10-25 Upper A.txt,47,NOTE
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,22_08_25 Upper C.txt,3,OTHER
+**Cool-down (5 minutes):**,0.5598197047024773,22_08_25 Upper C.txt,40,OTHER
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,23_08_25 Lower D.txt,2,OTHER
+**Cool-down (5 minutes):**,0.5598197047024773,23_08_25 Lower D.txt,44,OTHER
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,24-10-25 Upper C.txt,2,OTHER
+**Cool-down (5 minutes):**,0.5598197047024773,24-10-25 Upper C.txt,43,OTHER
+—,0.4186404709880825,24_07_25 Limbs B.txt,31,OTHER
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,25-09-25 Upper C.txt,2,OTHER
+**Cool-down (5 minutes):**,0.5598197047024773,25-09-25 Upper C.txt,46,OTHER
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,25-10-25 Lower D.txt,2,OTHER
+**Cool-down (5 minutes):**,0.5598197047024773,25-10-25 Lower D.txt,32,OTHER
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,26-09-25 Lower D.txt,2,OTHER
+- Pullups (AMRAP),0.5859947792532062,26-09-25 Lower D.txt,11,EXERCISE
+**Cool-down (5 minutes):**,0.5598197047024773,26-09-25 Lower D.txt,36,OTHER
+- Lat pulldown (wide grip),0.5203488372093024,27-10-25 Upper A.txt,11,EXERCISE
+**Dynamic Warm-up (5-7 minutes):**,0.5967350078854762,29_08_25 Upper C.txt,2,OTHER
+**Cool-down (5 minutes):**,0.5598197047024773,29_08_25 Upper C.txt,38,OTHER
+(Barbell),0.5588748934545927,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5588748934545927,06-11-25 Upper C.txt,35,NOTE
+(leg extension machine fault),0.5882156623401008,06_08_25 Lower  B.txt,22,NOTE
+(Reps drop from 7 reps),0.5928662909209002,07-10-25 Lower  B.txt,12,NOTE
+- Lat pulldown (wide grip),0.5540305010893246,10-11-25 Upper A.txt,10,EXERCISE
+- Lat pulldown (wide grip),0.5540305010893246,13-10-25 Upper A.txt,9,EXERCISE
+(Reps drop from 7 reps),0.5928662909209002,17-09-25 Lower  B.txt,12,NOTE
+- Lat Pulldown (Wide Grip),0.5540305010893246,17_07_25 Torso B.txt,5,EXERCISE
+- Hack Squats (Machine),0.5737054964726943,18_07_25 Limbs B.txt,12,EXERCISE
+—,0.5002565511350209,18_07_25 Limbs B.txt,26,OTHER
+- Lat pulldown (wide grip),0.5540305010893246,22-10-25 Upper A.txt,11,EXERCISE
+- Hack Squats (Machine),0.5737054964726943,22_07_25 Limbs A.txt,18,EXERCISE
+1-2 months or MMC,0.4786793169223574,22_08_25 Upper C.txt,28,NOTE
+—,0.5002565511350209,24_07_25 Limbs B.txt,31,OTHER
+- Leg Compression Lifts (L-sit),0.5041662738368377,24_07_25 Limbs B.txt,41,EXERCISE
+- Lat pulldown (wide grip),0.5540305010893246,27-10-25 Upper A.txt,11,EXERCISE
+(Barbell),0.5588748934545927,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5588748934545927,29-10-25 Upper C.txt,32,NOTE
+(Barbell),0.5079054116869887,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5079054116869887,06-11-25 Upper C.txt,35,NOTE
+(leg extension machine fault),0.4606185618223351,06_08_25 Lower  B.txt,22,NOTE
+(Reps drop from 7 reps),0.45369051890302786,07-10-25 Lower  B.txt,12,"NOTE
+"
+3. 90/90 hip switch,0.5227129672679295,09_08_25 Full Body D.txt,44,OTHER
+(stuck in BW × 5 reps for months),0.5571462877219325,09_09_25 Upper A.txt,9,"NOTE
+"
+(Drop Set),0.5126114768015753,10-11-25 Upper A.txt,24,"NOTE
+"
+(Drop Set),0.5126114768015753,10-11-25 Upper A.txt,28,"NOTE
+"
+(Drop Set),0.5126114768015753,10-11-25 Upper A.txt,42,"NOTE
+"
+(1 sec hold on top),0.5010095920219981,14_08_25 Upper C.txt,15,"NOTE
+"
+(Reps drop from 7 reps),0.45369051890302786,17-09-25 Lower  B.txt,12,"NOTE
+"
+—,0.3899485518051829,18_07_25 Limbs B.txt,26,OTHER
+(learning),0.5204299618632852,18_08_25 Lower D.txt,12,"NOTE"
+- Lat Pulldown (Nuteral Grip),0.5389805109395462,23_07_25 Torso B.txt,5,EXERCISE
+—,0.3899485518051829,24_07_25 Limbs B.txt,31,OTHER
+(Barbell),0.5079054116869887,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5079054116869887,29-10-25 Upper C.txt,32,NOTE
+(Barbell),0.4953371196137774,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.4953371196137774,06-11-25 Upper C.txt,35,NOTE
+(leg extension machine fault),0.5815672238241484,06_08_25 Lower  B.txt,22,NOTE
+(Reps drop from 7 reps),0.530694253275774,07-10-25 Lower  B.txt,12,NOTE
+**Dynamic Warm-up :**,0.5994561224370224,09_08_25 Full Body D.txt,3,OTHER
+(1 sec hold on top),0.5125152625152625,14_08_25 Upper C.txt,15,NOTE
+(Reps drop from 7 reps),0.530694253275774,17-09-25 Lower  B.txt,12,NOTE
+- Hack Squats (Machine),0.5103569632981397,18_07_25 Limbs B.txt,12,NOTE
+—,0.5137856510299467,18_07_25 Limbs B.txt,26,OTHER
+(learning),0.5389816473173616,18_08_25 Lower D.txt,12,NOTE
+- Hack Squats (Machine),0.5103569632981397,22_07_25 Limbs A.txt,18,NOTE
+—,0.5137856510299467,24_07_25 Limbs B.txt,31,OTHER
+(Barbell),0.4953371196137774,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.4953371196137774,29-10-25 Upper C.txt,32,NOTE
+(Barbell),0.5928571428571429,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5928571428571429,06-11-25 Upper C.txt,35,NOTE
+- Lat pulldown (wide grip),0.5872579595424835,10-11-25 Upper A.txt,10,EXERCISE
+Thoracic Rotations / Trunk Rotations,0.5102786615511011,12_08_25 Upper A.txt,6,OTHER
+- Lat pulldown (wide grip),0.5872579595424835,13-10-25 Upper A.txt,9,EXERCISE
+Thoracic Rotations / Trunk Rotations,0.5102786615511011,16-09-25 Upper A.txt,5,OTHER
+- Lat Pulldown (Wide Grip),0.5872579595424835,17_07_25 Torso B.txt,5,EXERCISE
+- Hack Squats (Machine),0.5845964394132335,18_07_25 Limbs B.txt,12,EXERCISE
+—,0.4513914870944053,18_07_25 Limbs B.txt,26,OTHER
+Thoracic Rotations / Trunk Rotations,0.5102786615511011,19_08_25 Upper A.txt,5,OTHER
+Thoracic Rotations / Trunk Rotations,0.5102786615511011,22-09-25 Upper A.txt,6,OTHER
+- Lat pulldown (wide grip),0.5872579595424835,22-10-25 Upper A.txt,11,EXERCISE
+- Hack Squats (Machine),0.5845964394132335,22_07_25 Limbs A.txt,18,EXERCISE
+—,0.4513914870944053,24_07_25 Limbs B.txt,31,OTHER
+Thoracic Rotations / Trunk Rotations,0.5102786615511011,26_08_25 Upper A.txt,5,OTHER
+- Lat pulldown (wide grip),0.5872579595424835,27-10-25 Upper A.txt,11,EXERCISE
+(Barbell),0.5928571428571429,27-10-25 Upper A.txt,43,NOTE
+Thoracic Rotations / Trunk Rotations,0.5102786615511011,29-09-25 Upper A.txt,5,OTHER
+(Barbell),0.5928571428571429,29-10-25 Upper C.txt,32,NOTE
+(Barbell),0.5189259170933828,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5189259170933828,06-11-25 Upper C.txt,35,NOTE
+(leg extension machine fault),0.45925925925925926,06_08_25 Lower  B.txt,22,NOTE
+(felt little on triceps),0.58694219076049,08_08_25 Upper C.txt,20,NOTE
+(1 sec hold on top),0.5025405717729516,14_08_25 Upper C.txt,15,NOTE
+- Hack Squats (Machine),0.5739860391789057,18_07_25 Limbs B.txt,12,EXERCISE
+—,0.3696988139670858,18_07_25 Limbs B.txt,26,OTHER
+(learning),0.40120985095631995,18_08_25 Lower D.txt,12,NOTE
+- Hack Squats (Machine),0.5739860391789057,22_07_25 Limbs A.txt,18,EXERCISE
+1-2 months or MMC,0.5047821775983802,22_08_25 Upper C.txt,28,NOTE
+—,0.3696988139670858,24_07_25 Limbs B.txt,31,OTHER
+- Leg Compression Lifts (L-sit),0.5841234915882579,24_07_25 Limbs B.txt,41,EXERCISE
+(Barbell),0.5189259170933828,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5189259170933828,29-10-25 Upper C.txt,32,NOTE
+(Neutral Grip),0.5511813922356091,01_09_25 Upper A.txt,14,NOTE
+(Barbell),0.5278189865289101,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5278189865289101,06-11-25 Upper C.txt,35,NOTE
+(Reps drop from 7 reps),0.5674847769337152,07-10-25 Lower  B.txt,12,NOTE
+(Reps drop from 7 reps),0.5674847769337152,17-09-25 Lower  B.txt,12,NOTE
+—,0.3167491580847395,18_07_25 Limbs B.txt,26,OTHER
+—,0.3167491580847395,24_07_25 Limbs B.txt,31,OTHER
+- Leg Compression Lifts (L-sit),0.44270281282495594,24_07_25 Limbs B.txt,41,EXERCISE
+(Nuteral grip),0.4940968275124993,26_08_25 Upper A.txt,46,NOTE
+(Barbell),0.5278189865289101,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5278189865289101,29-10-25 Upper C.txt,32,NOTE
+(Neutral Grip),0.5511813922356091,01_09_25 Upper A.txt,14,NOTE
+(Barbell),0.5278189865289101,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5278189865289101,06-11-25 Upper C.txt,35,NOTE
+(Reps drop from 7 reps),0.5674847769337152,07-10-25 Lower  B.txt,12,NOTE
+(Reps drop from 7 reps),0.5674847769337152,17-09-25 Lower  B.txt,12,NOTE
+—,0.3167491580847395,18_07_25 Limbs B.txt,26,OTHER
+—,0.3167491580847395,24_07_25 Limbs B.txt,31,OTHER
+- Leg Compression Lifts (L-sit),0.44270281282495594,24_07_25 Limbs B.txt,41,EXERCISE
+(Nuteral grip),0.4940968275124993,26_08_25 Upper A.txt,46,NOTE
+(Barbell),0.5278189865289101,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5278189865289101,29-10-25 Upper C.txt,32,NOTE
+(Neutral Grip),0.5511813922356091,01_09_25 Upper A.txt,14,NOTE
+(Barbell),0.5278189865289101,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5278189865289101,06-11-25 Upper C.txt,35,NOTE
+(Reps drop from 7 reps),0.5674847769337152,07-10-25 Lower  B.txt,12,NOTE
+(Reps drop from 7 reps),0.5674847769337152,17-09-25 Lower  B.txt,12,NOTE
+—,0.3167491580847395,18_07_25 Limbs B.txt,26,OTHER
+—,0.3167491580847395,24_07_25 Limbs B.txt,31,OTHER
+- Leg Compression Lifts (L-sit),0.44270281282495594,24_07_25 Limbs B.txt,41,EXERCISE
+(Nuteral grip),0.4940968275124993,26_08_25 Upper A.txt,46,NOTE
+(Barbell),0.5278189865289101,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5278189865289101,29-10-25 Upper C.txt,32,NOTE
+(Neutral Grip),0.5511813922356091,01_09_25 Upper A.txt,14,NOTE
+(Barbell),0.5278189865289101,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5278189865289101,06-11-25 Upper C.txt,35,NOTE
+(Reps drop from 7 reps),0.5674847769337152,07-10-25 Lower  B.txt,12,NOTE
+(Reps drop from 7 reps),0.5674847769337152,17-09-25 Lower  B.txt,12,NOTE
+—,0.3167491580847395,18_07_25 Limbs B.txt,26,OTHER
+—,0.3167491580847395,24_07_25 Limbs B.txt,31,OTHER
+- Leg Compression Lifts (L-sit),0.44270281282495594,24_07_25 Limbs B.txt,41,EXERCISE
+(Nuteral grip),0.4940968275124993,26_08_25 Upper A.txt,46,NOTE
+(Barbell),0.5278189865289101,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5278189865289101,29-10-25 Upper C.txt,32,NOTE
+(Neutral Grip),0.5511813922356091,01_09_25 Upper A.txt,14,NOTE
+(Barbell),0.5278189865289101,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5278189865289101,06-11-25 Upper C.txt,35,NOTE
+(Reps drop from 7 reps),0.5674847769337152,07-10-25 Lower  B.txt,12,NOTE
+(Reps drop from 7 reps),0.5674847769337152,17-09-25 Lower  B.txt,12,NOTE
+—,0.3167491580847395,18_07_25 Limbs B.txt,26,OTHER
+—,0.3167491580847395,24_07_25 Limbs B.txt,31,OTHER
+- Leg Compression Lifts (L-sit),0.44270281282495594,24_07_25 Limbs B.txt,41,EXERCISE
+(Nuteral grip),0.4940968275124993,26_08_25 Upper A.txt,46,NOTE
+(Barbell),0.5278189865289101,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5278189865289101,29-10-25 Upper C.txt,32,NOTE
+(Neutral Grip),0.5511813922356091,01_09_25 Upper A.txt,14,NOTE
+(Barbell),0.5278189865289101,03-11-25 Upper A.txt,35,NOTE
+(Barbell),0.5278189865289101,06-11-25 Upper C.txt,35,NOTE
+(Reps drop from 7 reps),0.5674847769337152,07-10-25 Lower  B.txt,12,NOTE
+(Reps drop from 7 reps),0.5674847769337152,17-09-25 Lower  B.txt,12,NOTE
+—,0.3167491580847395,18_07_25 Limbs B.txt,26,OTHER
+—,0.3167491580847395,24_07_25 Limbs B.txt,31,OTHER
+- Leg Compression Lifts (L-sit),0.44270281282495594,24_07_25 Limbs B.txt,41,EXERCISE
+(Nuteral grip),0.4940968275124993,26_08_25 Upper A.txt,46,NOTE
+(Barbell),0.5278189865289101,27-10-25 Upper A.txt,43,NOTE
+(Barbell),0.5278189865289101,29-10-25 Upper C.txt,32,NOTE
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+(Wide grip),0.7459295707467491,15-10-25 Upper C.txt,4
+- Front Wrist Curls (5-8 reps),0.9629629629629629,15-10-25 Upper C.txt,31
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+(Neutral Grip),0.7063492063492062,01_09_25 Upper A.txt,14
+(form is off),0.989247311827957,02_09_25 Lower B.txt,12
+(Wide feet),0.7619616378617834,02_09_25 Lower B.txt,17
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,02_09_25 Lower B.txt,21
+(Wide grip),0.7459295707467491,03_09_25 Upper C.txt,7
+(Switch to normal don't like this),0.9393939393939394,03_09_25 Upper C.txt,16
+(form not perfect),0.989247311827957,03_09_25 Upper C.txt,24
+(last time done 6 reps),0.8974358974358975,03_09_25 Upper C.txt,32
+- Push Ups (AMRAP),0.7804358756308153,03_09_25 Upper C.txt,37
+- Dead Hangs (Skipped),0.989247311827957,03-11-25 Upper A.txt,22
+(V - Bar),0.7225875208362345,03-11-25 Upper A.txt,27
+- Front Wrist Curl (10-20 reps),0.9523809523809524,03-11-25 Upper A.txt,34
+(Barbell),0.6123670546743364,03-11-25 Upper A.txt,35
+- Lying Hamstring Curls (5-8 reps),0.9583333333333334,04-11-25 Lower  B.txt,7
+(Wide feet),0.7619616378617834,04-11-25 Lower  B.txt,21
+(1 rep reduced from last week),0.9953680994149555,05_08_25 Upper A.txt,10
+Superset 2:z,0.8974358974358975,06_08_25 Lower  B.txt,16
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,06_08_25 Lower  B.txt,17
+(skipped machine fault),0.9482551143200962,06_08_25 Lower  B.txt,18
+(leg extension machine fault),0.6760205880279208,06_08_25 Lower  B.txt,22
+(V - Bar),0.7225875208362345,06-10-25 Upper A.txt,35
+(Wide grip),0.7459295707467491,06-11-25 Upper C.txt,7
+- Front Wrist Curls (10-20 reps),0.9523809523809524,06-11-25 Upper C.txt,34
+(Barbell),0.6123670546743364,06-11-25 Upper C.txt,35
+(Reps drop from 7 reps),0.8511904761904762,07-10-25 Lower  B.txt,12
+- Pullups (AMRAP),0.9416282642089094,07-10-25 Lower  B.txt,16
+(Wide feet),0.7619616378617834,07-10-25 Lower  B.txt,20
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,07-10-25 Lower  B.txt,24
+- Deadlift (3-5 reps),0.9607843137254902,07-11-25 Lower D.txt,3
+- Leg Extension (5-8 reps),0.9807579399724039,07-11-25 Lower D.txt,6
+(felt little on triceps),0.7302802412176499,08_08_25 Upper C.txt,20
+**Cool-down (5 minutes):**,0.7801112675039241,08_08_25 Upper C.txt,33
+- Pullups (AMRAP),0.9416282642089094,08_09_25 Lower D.txt,2
+- Good Mornings (8-12 Reps),0.9743589743589745,08_09_25 Lower D.txt,11
+- Front Wrist Curls (10-12 reps),0.9523809523809524,08_09_25 Lower D.txt,31
+(V-Bar),0.9704641350210971,08-11-25 Sharms.txt,23
+**Dynamic Warm-up :**,0.989247311827957,09_08_25 Full Body D.txt,3
+- Front Wrist Curls (10-12 reps),0.9523809523809524,09_08_25 Full Body D.txt,27
+**Cool-down:**,0.8898481299149354,09_08_25 Full Body D.txt,41
+3. 90/90 hip switch,0.8207491433297885,09_08_25 Full Body D.txt,44
+(stuck in BW × 5 reps for months),0.9906459301519493,09_09_25 Upper A.txt,9
+(done with deadhangs),0.841025641025641,09_09_25 Upper A.txt,24
+(Wide grip),0.7459295707467491,09-10-25 Upper C.txt,3
+- Front Wrist Curls (5-8 reps),0.9629629629629629,09-10-25 Upper C.txt,37
+(good MMC at 30kg),0.8407177126798547,10_09_25 Lower  B.txt,14
+(Wide feet),0.7619616378617834,10_09_25 Lower  B.txt,19
+(harder than last time),0.9464489067408984,10_09_25 Lower  B.txt,22
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,10_09_25 Lower  B.txt,24
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,10-10-25 Lower D.txt,2
+- Pullups (AMRAP),0.9416282642089094,10-10-25 Lower D.txt,12
+**Cool-down (5 minutes):**,0.7801112675039241,10-10-25 Lower D.txt,36
+1. Quadriceps Stretch (Standing or Lying),0.9096167751265365,10-10-25 Lower D.txt,37
+- Lat pulldown (wide grip),0.7812766121072362,10-11-25 Upper A.txt,10
+- Chest Pec Dec (5-8 reps),0.9047827567751666,10-11-25 Upper A.txt,13
+(Drop Set),0.9151732377538829,10-11-25 Upper A.txt,24
+(Drop Set),0.9151732377538829,10-11-25 Upper A.txt,28
+(V - Bar) (Drop Set),0.9435985270137685,10-11-25 Upper A.txt,36
+(Drop Set),0.9151732377538829,10-11-25 Upper A.txt,42
+- Front Wrist Curl (10-20 reps),0.9523809523809524,10-11-25 Upper A.txt,50
+(Cable),0.7325732889354354,10-11-25 Upper A.txt,51
+- Lying Hamstring Curls (5-8 reps),0.9583333333333334,11-11-25 Lower  B.txt,7
+Thoracic Rotations / Trunk Rotations,0.8439344922148297,12_08_25 Upper A.txt,6
+(form not perfect but good),0.9486641301089159,12_08_25 Upper A.txt,29
+(Wide grip),0.7459295707467491,12_09_25 Upper C.txt,4
+(Note: Stick with 40kg untill no pain in scapula),0.989247311827957,12_09_25 Upper C.txt,15
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,13_08_25 Lower  B.txt,19
+(machine fault),0.9482551143200962,13_08_25 Lower  B.txt,20
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,13_09_25 Lower D.txt,2
+(can't even lift 110 without straps),0.9704641350210971,13_09_25 Lower D.txt,12
+- Good Mornings (8-12 Reps),0.9743589743589745,13_09_25 Lower D.txt,16
+**Cool-down (5 minutes):**,0.7801112675039241,13_09_25 Lower D.txt,37
+1. Quadriceps Stretch (Standing or Lying),0.9096167751265365,13_09_25 Lower D.txt,38
+- Lat pulldown (wide grip),0.7812766121072362,13-10-25 Upper A.txt,9
+(V - Bar),0.7225875208362345,13-10-25 Upper A.txt,30
+- Front Wrist Curl (5-8 reps),0.9629629629629629,13-10-25 Upper A.txt,37
+(Wide grip),0.7459295707467491,13-11-25 Upper C.txt,7
+- Front Wrist Curls (10-20 reps),0.9523809523809524,13-11-25 Upper C.txt,34
+(Cable),0.7325732889354354,13-11-25 Upper C.txt,35
+- DB Shrugs (instead of Lu raises),0.9140037080661664,14_07_25 Torso A.txt,31
+(Note: Form Wrong Butt have to stay in contact with bench),0.989247311827957,14_08_25 Upper C.txt,9
+(1 sec hold on top),0.8187072815052113,14_08_25 Upper C.txt,15
+(Note: switch with declined Crunches Next time),0.9920983912291098,14_08_25 Upper C.txt,29
+(Wide feet),0.7619616378617834,14-10-25 Lower  B.txt,15
+- Lying Hamstring Curls (5-8 reps),0.9583333333333334,14-10-25 Lower  B.txt,19
+(note stick with 54kg),0.9938375995739269,15_07_25 Limb A.txt,24
+- Standing Calf Raises (Smith),0.6956007741453392,15_07_25 Limb A.txt,39
+(note add warmup set),0.7630321562746781,15_07_25 Limb A.txt,42
+(Wide grip),0.7459295707467491,15-10-25 Upper C.txt,4
+- Front Wrist Curls (5-8 reps),0.9629629629629629,15-10-25 Upper C.txt,31
+Thoracic Rotations / Trunk Rotations,0.8439344922148297,16-09-25 Upper A.txt,5
+(V - Bar),0.7225875208362345,16-09-25 Upper A.txt,39
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,16-10-25 Lower D.txt,2
+**Cool-down (5 minutes):**,0.7801112675039241,16-10-25 Lower D.txt,32
+1. Quadriceps Stretch (Standing or Lying),0.9096167751265365,16-10-25 Lower D.txt,33
+Torso B: (Back Focused),0.9169656492845801,17_07_25 Torso B.txt,2
+- Lat Pulldown (Wide Grip),0.7812766121072362,17_07_25 Torso B.txt,5
+(Reps drop from 7 reps),0.8511904761904762,17-09-25 Lower  B.txt,12
+- Pullups (AMRAP),0.9416282642089094,17-09-25 Lower  B.txt,16
+(Wide feet),0.7619616378617834,17-09-25 Lower  B.txt,20
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,17-09-25 Lower  B.txt,25
+(V - Bar),0.7225875208362345,17-10-25 Sharms.txt,17
+- DB Front Wrist Curls (5-8 reps),0.9629629629629629,17-10-25 Sharms.txt,35
+- Farmer Carry DB (skipped),0.7386739299579884,17-10-25 Sharms.txt,41
+- Hack Squats (Machine),0.6995336741099454,18_07_25 Limbs B.txt,12
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+(Smith Machine),0.8811487931561244,18_07_25 Limbs B.txt,35
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,18_08_25 Lower D.txt,2
+(learning),0.8718254999895111,18_08_25 Lower D.txt,12
+"(back of the foot ket raising while sitting down, controlled as much as possible)",0.9217132476152874,18_08_25 Lower D.txt,15
+- Good Mornings (8-10 Reps),0.9838153132042393,18_08_25 Lower D.txt,16
+- Front Wrist Curls (10-12 reps),0.9523809523809524,18_08_25 Lower D.txt,38
+**Cool-down (5 minutes):**,0.7801112675039241,18_08_25 Lower D.txt,46
+2. Quadriceps Stretch (Standing or Lying),0.9096167751265365,18_08_25 Lower D.txt,48
+3. Pigeon Stretch  (Glutes/Hips),0.9743589743589745,18_08_25 Lower D.txt,49
+Weight: 70kg,0.9475806451612904,18_08_25 Lower D.txt,51
+(Wide grip),0.7459295707467491,18-09-25 Upper C.txt,4
+Thoracic Rotations / Trunk Rotations,0.8439344922148297,19_08_25 Upper A.txt,5
+(Note: stick with this weight until easy as form is not perfect),0.989247311827957,19_08_25 Upper A.txt,12
+- Deadlift (3-5 reps),0.9607843137254902,19-11-25 Full Body.txt,3
+(wide feet),0.7619616378617834,20_08_25 Lower  B.txt,17
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,20_08_25 Lower  B.txt,21
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,20-09-25 Lower D.txt,2
+- Pullups (AMRAP),0.9416282642089094,20-09-25 Lower D.txt,11
+**Cool-down (5 minutes):**,0.7801112675039241,20-09-25 Lower D.txt,37
+1. Quadriceps Stretch (Standing or Lying),0.9096167751265365,20-09-25 Lower D.txt,38
+- Hack Squats (Machine),0.6995336741099454,22_07_25 Limbs A.txt,18
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,22_08_25 Upper C.txt,3
+1. Arm Circles (Fwd & Bwd),0.8419016996936124,22_08_25 Upper C.txt,5
+2. Scapular Pull-ups (Dead Hang Shrugs),0.7811771703925099,22_08_25 Upper C.txt,6
+1-2 months or MMC,0.7909716716010408,22_08_25 Upper C.txt,28
+**Cool-down (5 minutes):**,0.7801112675039241,22_08_25 Upper C.txt,40
+2. Shoulder Capsule Stretch (Cross-Body),0.9902648509410487,22_08_25 Upper C.txt,42
+Thoracic Rotations / Trunk Rotations,0.8439344922148297,22-09-25 Upper A.txt,6
+(V - Bar),0.7225875208362345,22-09-25 Upper A.txt,45
+- Lat pulldown (wide grip),0.7812766121072362,22-10-25 Upper A.txt,11
+(V - Bar),0.7225875208362345,22-10-25 Upper A.txt,34
+- Front Wrist Curl (10-20 reps),0.9523809523809524,22-10-25 Upper A.txt,42
+(Cable),0.7325732889354354,22-10-25 Upper A.txt,43
+(Current BW Weight: 74.46 kg),0.989247311827957,22-10-25 Upper A.txt,47
+Torso B: (Back Focused),0.9169656492845801,23_07_25 Torso B.txt,2
+- Lat Pulldown (Nuteral Grip),0.8439153439153438,23_07_25 Torso B.txt,5
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,23_08_25 Lower D.txt,2
+(used plate at heels so form good),0.8928235394748096,23_08_25 Lower D.txt,14
+- Good Mornings (8-10 Reps),0.9838153132042393,23_08_25 Lower D.txt,15
+- Front Wrist Curls (10-12 reps),0.9523809523809524,23_08_25 Lower D.txt,36
+**Cool-down (5 minutes):**,0.7801112675039241,23_08_25 Lower D.txt,44
+2. Quadriceps Stretch (Standing or Lying),0.9096167751265365,23_08_25 Lower D.txt,46
+3. Pigeon Stretch  (Glutes/Hips),0.9743589743589745,23_08_25 Lower D.txt,47
+have light cold can't workout properly,0.9597114468490541,23_08_25 Lower D.txt,49
+(Wide feet),0.7619616378617834,23-09-25 Lower  B.txt,19
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,23-09-25 Lower  B.txt,23
+(V-bar),0.9704641350210971,23-10-25 Lower  B.txt,10
+- Lying Hamstring Curls (5-8 reps),0.9583333333333334,23-10-25 Lower  B.txt,17
+(Wide feet),0.7619616378617834,23-10-25 Lower  B.txt,31
+(no rest in this SS),0.894921780986763,24_07_25 Limbs B.txt,27
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,24-10-25 Upper C.txt,2
+1. Arm Circles (Fwd & Bwd),0.8419016996936124,24-10-25 Upper C.txt,4
+2. Scapular Pull-ups (Dead Hang Shrugs),0.7811771703925099,24-10-25 Upper C.txt,5
+(Wide grip),0.7459295707467491,24-10-25 Upper C.txt,9
+- Front Wrist Curls (10-20 reps),0.9523809523809524,24-10-25 Upper C.txt,37
+(Machine),0.8647070353601389,24-10-25 Upper C.txt,38
+(machine fault change workout),0.9635324192010466,24-10-25 Upper C.txt,41
+**Cool-down (5 minutes):**,0.7801112675039241,24-10-25 Upper C.txt,43
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,25-09-25 Upper C.txt,2
+1. Arm Circles (Fwd & Bwd),0.8419016996936124,25-09-25 Upper C.txt,4
+2. Scapular Pull-ups (Dead Hang Shrugs),0.7811771703925099,25-09-25 Upper C.txt,5
+(Wide grip),0.7459295707467491,25-09-25 Upper C.txt,9
+**Cool-down (5 minutes):**,0.7801112675039241,25-09-25 Upper C.txt,46
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,25-10-25 Lower D.txt,2
+- Leg Extension (5-8 reps),0.9807579399724039,25-10-25 Lower D.txt,14
+**Cool-down (5 minutes):**,0.7801112675039241,25-10-25 Lower D.txt,32
+1. Quadriceps Stretch (Standing or Lying),0.9096167751265365,25-10-25 Lower D.txt,33
+Thoracic Rotations / Trunk Rotations,0.8439344922148297,26_08_25 Upper A.txt,5
+(Nuteral grip),0.6255946683093385,26_08_25 Upper A.txt,46
+(due to low volume because of pull ups,0.9770326869835674,26_08_25 Upper A.txt,49
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,26-09-25 Lower D.txt,2
+- Pullups (AMRAP),0.9416282642089094,26-09-25 Lower D.txt,11
+**Cool-down (5 minutes):**,0.7801112675039241,26-09-25 Lower D.txt,36
+1. Quadriceps Stretch (Standing or Lying),0.9096167751265365,26-09-25 Lower D.txt,37
+- Lat pulldown (wide grip),0.7812766121072362,27-10-25 Upper A.txt,11
+(V - Bar),0.7225875208362345,27-10-25 Upper A.txt,33
+- Front Wrist Curl (10-20 reps),0.9523809523809524,27-10-25 Upper A.txt,42
+(Barbell),0.6123670546743364,27-10-25 Upper A.txt,43
+- Chest Pec Dec (5-8 reps),0.9047827567751666,27-11-25 Upper A.txt,6
+(wide grip),0.7459295707467491,27-11-25 Upper A.txt,9
+(V - Bar),0.7225875208362345,27-11-25 Upper A.txt,27
+- Front Wrist Curl (10-20 reps),0.9523809523809524,27-11-25 Upper A.txt,35
+(cable),0.7325732889354354,27-11-25 Upper A.txt,36
+(wide feet),0.7619616378617834,28_08_25 Lower  B.txt,16
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,28_08_25 Lower  B.txt,20
+- Lying Hamstring Curls (5-8 reps),0.9583333333333334,28-10-25 Lower  B.txt,8
+(Wide feet),0.7619616378617834,28-10-25 Lower  B.txt,22
+- Lying Hamstring Curls (5-8 reps),0.9583333333333334,28-11-25 Lower  B.txt,9
+**Dynamic Warm-up (5-7 minutes):**,0.9668976135488837,29_08_25 Upper C.txt,2
+1. Arm Circles (Fwd & Bwd),0.8419016996936124,29_08_25 Upper C.txt,4
+2. Scapular Pull-ups (Dead Hang Shrugs),0.7811771703925099,29_08_25 Upper C.txt,5
+(Wide grip),0.7459295707467491,29_08_25 Upper C.txt,9
+- Weighted Triceps Dips (6-8 reps),0.9629629629629629,29_08_25 Upper C.txt,31
+**Cool-down (5 minutes):**,0.7801112675039241,29_08_25 Upper C.txt,38
+2. Shoulder Capsule Stretch (Cross-Body),0.9902648509410487,29_08_25 Upper C.txt,40
+Thoracic Rotations / Trunk Rotations,0.8439344922148297,29-09-25 Upper A.txt,5
+(V - Bar),0.7225875208362345,29-09-25 Upper A.txt,45
+(Wide grip),0.7459295707467491,29-10-25 Upper C.txt,4
+- Front Wrist Curls (10-20 reps),0.9523809523809524,29-10-25 Upper C.txt,31
+(Barbell),0.6123670546743364,29-10-25 Upper C.txt,32
+- Lying Hamstring Curls (8-10 reps),0.9583333333333334,30_07_25 Lower  B.txt,19
+- Seated Leg Extension (8-10 reps),0.9743589743589745,30_07_25 Lower  B.txt,22
+- Good Mornings (8-12 Reps),0.9743589743589745,30_08_25 Lower D.txt,9
+- Front Wrist Curls (10-12 reps),0.9523809523809524,30_08_25 Lower D.txt,29
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41
+—,0.421237136073769,18_07_25 Limbs B.txt,26
+—,0.421237136073769,24_07_25 Limbs B.txt,31
+- Leg Compression Lifts (L-sit),0.3888878964097116,24_07_25 Limbs B.txt,41

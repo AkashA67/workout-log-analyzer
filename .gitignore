@@ -22,18 +22,3 @@ workout_project_env/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
-
-
-# Raw workout logs — never commit personal data
-data_raw/
-*.txt
-
-# Processed data & database
-data_processed/
-*.csv
-*.db
-
-# ML review files that change often contain raw lines
-data_labels/
-*.csv
-
