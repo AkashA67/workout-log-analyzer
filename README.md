@@ -79,16 +79,16 @@ workout_project/
 - **Launch**: streamlit run apps/streamlit_app.py
 - **Features**: Upload/select logs, parse live, view tables/charts, export CSVs.
 - **Demo**: Live Demo on Streamlit Cloud
-- **GIF Demo**: [Streamlit Demo](visualizations\ezgif-139bc2a769f72f70.gif)
+- **GIF Demo**: [Streamlit Demo](visualizations/ezgif-139bc2a769f72f70.gif)
 
 # Results and Insights
 
 - **Parsed 1343 sets** from **74 logs**.
-- **Example Visualization**: [Estimated 1RM Trend for Barbell Bench Press](visualizations\bench_1rm.png)
+- **Example Visualization**: [Estimated 1RM Trend for Barbell Bench Press](visualizations/bench_1rm.png)
 
 - **1RM Trend Insight**: 1RM increased 20% over 12 weeks, correlating with higher volume weeks.
 
-- **Exercise Frequency Heatmap** :[Exercise Frequency Heatmap](visualizations\exercise_freq_heatmap.png)
+- **Exercise Frequency Heatmap** :[Exercise Frequency Heatmap](visualizations/exercise_freq_heatmap.png)
 
 - **Insight**: Consistent focus on compound lifts (e.g., squats, bench) with accessory work tapering mid-program.
 For more, see notebooks/analysis.ipynb.
