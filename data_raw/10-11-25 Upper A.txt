@@ -6,19 +6,27 @@
     
     S1: 66 Kg × 5 Reps (f)
     
-    S2: 66 Kg ×  3 Reps + 50 Kg × 6 Reps (f)
+    S2: 66 Kg ×  3 Reps 
+    
+    S3: 50 Kg × 6 Reps (f)
     
 - Weighted Pull-ups (5-8 reps)
     
-     + Lat pulldown (wide grip)
+    S1: 5 Reps 
     
-    S1: BW × 5 Reps +60 Kg × 4 Reps (f)
+    S2: 2 Reps 
     
-    S2: BW × 2 Reps +60 Kg × 3 Reps (f)
+- Lat pulldown (wide grip)
     
+    S1: 60 Kg × 4 Reps (f)
+     
+    S2: 60 Kg × 3 Reps (f)
+
 - Chest Pec Dec (5-8 reps)
     
-    S1: 50 Kg × 5 Reps + 40 Kg × 3 (f)
+    S1: 50 Kg × 5 Reps 
+    
+    S2: 40 Kg × 3 (f)
     
 - Seated DB Overhead Press (5-8 reps)
     
@@ -47,7 +55,9 @@ Superset 1:
     
     (Drop Set)
     
-    S1: 40 Kg × 5 Reps + 30 × 6 + 20 × 10 reps (f)
+    S1: 40 Kg × 5 Reps 
+    S2: 30 × 6 
+    S3: 20 × 10 reps (f)
     
 - Dead Hangs
     
@@ -60,13 +70,21 @@ Superset 2:
     
     (V - Bar) (Drop Set)
     
-    S1: 20 Kg × 8 Reps + 15 × 5 × 10 × 5 + 5 × 3 Reps (f)
+    S1: 20 Kg × 8 Reps 
+    S2: 15 × 5 
+    S3: 10 × 5 
+    S4: 5 × 3 Reps (f)
     
 - Cable Curls (5-8 reps)
     
     (Drop Set)
     
-    S1: 30 Kg × 7 Reps + 25 kg × 2 + 20 kg× 3 kg + 15 kg × 2 + 10kg × 5 + 5 kg × 3 (f)
+    S1: 30 Kg × 7 Reps 
+    S2: 25 kg × 2 
+    S3: 20 kg× 3 kg 
+    S4: 15 kg × 2 
+    S5: 10kg × 5 
+    S6: 5 kg × 3 (f)
     
 
 Superset 3:

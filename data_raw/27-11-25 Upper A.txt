@@ -62,7 +62,9 @@ Superset 2:
     
     S1: 35 Kg × 5 Reps (f)
     
-    S2: 35 Kg × 3 Reps + 30 Kg × 1 Rep (f)
+    S2: 35 Kg × 3 Reps
+     
+    S3: 30 Kg × 1 Rep (f)
     
 
 Superset 3:

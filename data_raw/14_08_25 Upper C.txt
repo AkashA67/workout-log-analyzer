@@ -1,13 +1,5 @@
 14_08_25 Upper C
 
-**Dynamic Warm-up (5-7 minutes):**
-
----
-
-1. Arm Circles (Fwd & Bwd)
-2. Scapular Pull-ups (Dead Hang Shrugs)
-3. Cat-Cow Stretch
-
 ---
 
 - Lat Pulldown (6-8 reps)
@@ -73,8 +65,6 @@ Superset 2:
 
 ---
 
-**Cool-down (5 minutes):**
-
-1. Dead Hangs (50 sec)
-2. Shoulder Capsule Stretch (Cross-Body)
-3. Wrist Flexor Stretch
+- Dead Hangs 
+    
+    S1: 50 sec

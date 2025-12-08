@@ -1,13 +1,5 @@
 02_08_25 Upper C
 
-**Dynamic Warm-up (5-7 minutes):**
-
----
-
-1. Arm Circles (Fwd & Bwd)
-2. Scapular Pull-ups (Dead Hang Shrugs)
-3. Cat-Cow Stretch
-
 ---
 
 - Deadlifts (4-6 reps)
@@ -20,7 +12,7 @@
     
 - Seated Barbell OHP (4-6 reps)
     
-    (without bar weight (10kg))
+    (without bar weight 10kg)
     
     S1: 28kg × 9 reps (f)
     
@@ -67,6 +59,6 @@ Superset 2:
 
 ---
 
-**Cool-down (5 minutes):**
-
-1. Dead Hangs (40 sec
+- Dead Hangs 
+    
+    S1: 40 sec

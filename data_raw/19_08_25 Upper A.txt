@@ -95,4 +95,5 @@ Cooldown:
 
 ---
 
-Dead hangs (36 sec)
+- Dead hangs 
+    S1: 36 sec

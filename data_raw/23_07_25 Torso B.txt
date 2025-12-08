@@ -58,11 +58,9 @@ Chest:
 
 - Incline Barbell Press
     
-    (without bar weight)
+    S1: 46kg × 8 reps (close)
     
-    S1: 36kg × 8 reps (close)
-    
-    S2: 38kg × 6 reps (close)
+    S2: 48kg × 6 reps (close)
     
 - Chest Pec Dec
     

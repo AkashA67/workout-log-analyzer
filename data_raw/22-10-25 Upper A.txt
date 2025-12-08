@@ -1,14 +1,6 @@
 22-10-25 Upper A
 
-Dynamic Warm-up:
 
----
-
-Arm Circles (Fwd & Bwd)
-
-Thoracic Rotations / Trunk Rotations 
-
-Band Pull-Aparts
 
 ---
 
@@ -22,13 +14,17 @@ Band Pull-Aparts
     
 - Weighted Pull-ups (5-8 reps)
     
-     + Lat pulldown (wide grip)
+    S1:  5 Kg × 4 Reps (f) 
     
-    S1:  5 Kg × 4 Reps (f) + 50kg × 7 reps (f)
-    
-    S2: 5 Kg × 2 Reps (f) + 50kg × 5 reps (f)
+    S2: 5 Kg × 2 Reps (f) 
     
     S3: BW × 2 Reps (f)
+
+- Lat pulldown (wide grip)
+  
+   S1: 50kg × 7 reps (f)
+   
+   S2: 50kg × 5 reps (f)
     
 - Standing Overhead Press (5-8 reps)
     
@@ -100,6 +96,6 @@ Superset 3:
 
 ---
 
-Current BW Weight: 74.46 kg
+(Current BW Weight: 74.46 kg)
 
-4 KG increase from last month
+(4 KG increase from last month)

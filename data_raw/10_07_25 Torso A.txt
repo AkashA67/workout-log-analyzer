@@ -2,55 +2,62 @@
 
 
 Chest:
-Barbell Bench Press
+- Barbell Bench Press
 
-S1: 30kg × 8 reps
+  S1: 30kg × 8 reps
 
-S2: 30kg × 8 reps
-2. Chest pec dec 
+  S2: 30kg × 8 reps
 
-S1: 25kg × 8 reps
+- Chest pec dec 
 
-S2: 25kg × 8 reps
+  S1: 25kg × 8 reps
+
+  S2: 25kg × 8 reps
 
 Super Set 1:
 
-Seated DB Overhead Press
+- Seated DB Overhead Press
 
-S1: 10kg × 8 reps
+  S1: 10kg × 8 reps
+ 
+  S2: 10kg × 8 reps
 
-S2: 10kg × 8 reps
-DB lateral Raises 
+- DB lateral Raises 
 
-S1: 5kg × 8 reps
+  S1: 5kg × 8 reps
 
-S2: 5kg × 8 reps
+  S2: 5kg × 8 reps
 
-Reverse pec dec
+- Reverse pec dec
 
-S1: 25kg × 8 reps
+  S1: 25kg × 8 reps
 
-S2: 25kg × 8 reps
+  S2: 25kg × 8 reps
+
 Back:
-Lat pulldown 
+ 
+- Lat pulldown 
+
+  S1: 30kg × 8 reps
+
+  S2: 30kg × 8 reps
+
+- Seated Row
 
 S1: 30kg × 8 reps
 
 S2: 30kg × 8 reps
-Seated Row
 
-S1: 30kg × 8 reps
-
-S2: 30kg × 8 reps
 Superset 2:
-front wrist curls
 
-S1: 15kg × 8 reps
+- front wrist curls
 
-S2: 15kg × 8 reps
+   S1: 15kg × 8 reps
 
-reverse wrist curls
+   S2: 15kg × 8 reps
 
-S1: 10kg × 8 reps
+- reverse wrist curls
 
-S2: 15kg × 8 reps
+  S1: 10kg × 8 reps
+
+  S2: 15kg × 8 reps

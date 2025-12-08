@@ -100,8 +100,6 @@ Cool-down:
 
 ---
 
-Dead hang / Lat Stretch (40sec)
-
-Triceps Stretch
-
----
+- Dead hang
+    
+     S1: 40 sec
