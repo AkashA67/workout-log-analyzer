@@ -84,7 +84,7 @@ workout_project/
 # Results and Insights
 
 - **Parsed 1343 sets** from **74 logs**.
-- **Example Visualization**: [![Estimated 1RM Trend for Barbell Bench Press](visualizations\bench_1rm.png)](visualizations\bench_1rm.png)
+- **Example Visualization**: [![Estimated 1RM Trend for Barbell Bench Press](visualizations\bench_1rm.png)]
 
 - **1RM Trend Insight**: 1RM increased 20% over 12 weeks, correlating with higher volume weeks.
 
