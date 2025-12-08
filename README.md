@@ -79,7 +79,7 @@ workout_project/
 - **Launch**: streamlit run apps/streamlit_app.py
 - **Features**: Upload/select logs, parse live, view tables/charts, export CSVs.
 - **Demo**: Live Demo on Streamlit Cloud
-- **GIF Demo**: ![Streamlit Demo (visualizations\ezgif-139bc2a769f72f70.gif)](visualizations\ezgif-139bc2a769f72f70.gif)
+- **GIF Demo**: ![Streamlit Demo](visualizations\ezgif-139bc2a769f72f70.gif)
 
 # Results and Insights
 
