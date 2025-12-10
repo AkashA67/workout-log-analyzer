@@ -8,9 +8,8 @@ OUTPUT_CSV = DATA_PATH / "unique_exercises.csv"
 # Read the raw file
 df = pd.read_csv(RAW_CSV)
 
-# Change 'exercise' below if your column has a different name
-# Common alternatives: 'Exercise', 'exercise_name', 'Movement', etc.
-exercise_column = 'exercise'  # ← CHANGE THIS if needed!
+
+exercise_column = 'exercise'  
 
 # Get unique values, sort them nicely, and save as one column
 unique_exercises = (
