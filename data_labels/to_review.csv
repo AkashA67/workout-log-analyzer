@@ -1,2 +1,5 @@
 raw_line,confidence,source_file,line_no,label
-
+sample1,0.3,source,12,EXERCISE
+sample2,0.4,sourc2,122,SET
+sample3,0.2,source3,2,NOTE
+sample4,0.1,source4,4,DATE
