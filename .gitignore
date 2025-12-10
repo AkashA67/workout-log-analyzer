@@ -16,9 +16,5 @@ workout_project_env/
 # OS generated files
 .DS_Store
 
-# Data files (keep raw logs but ignore large processed files/models)
-/data_processed/
-/models/
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
