@@ -10,8 +10,8 @@ from src.parsers.v1_parser import parse_log_content
 from src.parsers.normalize import normalize_exercise
 
 
-
-PROJECT_ROOT = Path(r"C:\Users\aakas\Documents\workout_project")
+CURRENT_DIR = Path(__file__).resolve().parent
+PROJECT_ROOT = CURRENT_DIR.parent.parent
 RAW_GLOB = PROJECT_ROOT / "data_raw" / "*.txt"
 OUT_RAW_SETS = PROJECT_ROOT / "data_processed" / "workouts_raw_sets.csv"
 TO_REVIEW = PROJECT_ROOT / "data_labels" / "to_review.csv"
