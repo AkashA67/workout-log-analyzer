@@ -8,8 +8,8 @@ import glob
 import sys
 
 # Paths
-PROJECT_ROOT = Path(r"C:\Users\aakas\Documents\workout_project")
-MODEL_PATH = PROJECT_ROOT / 'models' / 'line_clf.joblib'
+PROJECT_ROOT = Path(__file__).resolve().parent
+MODEL_PATH = PROJECT_ROOT.parent / 'models' / 'line_clf.joblib'
 RAW_DATA_DIR = PROJECT_ROOT / 'data_raw'
 PROCESSED_DIR = PROJECT_ROOT / 'data_processed'
 TO_REVIEW_PATH = PROJECT_ROOT / "data_labels" / "to_review.csv"
