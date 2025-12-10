@@ -17,8 +17,8 @@ from sklearn.calibration import CalibratedClassifierCV
 from sklearn.metrics import classification_report, confusion_matrix, f1_score, precision_recall_fscore_support
 
 warnings.filterwarnings("ignore")
-
-PROJECT_ROOT = Path(r"C:\Users\aakas\Documents\workout_project")
+CURRENT_DIR = Path(__file__).resolve().parent
+PROJECT_ROOT_PATH = CURRENT_DIR.parent.parent
 LABEL_DATA_PATH = PROJECT_ROOT/ "data_labels" / "lines_for_trainning.csv"
 MODELS_DIR = PROJECT_ROOT/ "models"
 MODEL_PATH = MODELS_DIR / "line_clf.joblib"
